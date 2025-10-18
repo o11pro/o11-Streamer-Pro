@@ -18,9 +18,8 @@
 - ✅ **Global DRM Script Packages** - Choose from countries worldwide
 
 ## 🎬 Live Demo
-<div align="center">
-  <iframe src="https://player.vimeo.com/video/1127665826?h=ad8bbc57f6" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+
+[![Watch the video](https://i.imgur.com/jWPk23G.png)](https://player.vimeo.com/video/1127665826?h=ad8bbc57f6)
 
 ## 🌍 Global Coverage
 Get our **full service packages** that come with **DRM script packages** from countries of your choosing. Perfect for providers serving international audiences.
